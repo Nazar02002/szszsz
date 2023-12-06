@@ -1,0 +1,77 @@
+header img {
+    width:200px;
+    height:100px;
+    border:3px solid navy;
+
+}
+header h1 {
+    text-align:center;
+    color:white;
+}
+body {
+    background-color:lightskyblue;
+}
+.present {
+   font-size:15px;
+   text-align:center;
+   color:white;
+}
+nav a {
+    border:3px solid lightslategray;
+    margin:10px;
+    padding:5px;
+    text-decoration:none;
+    border-radius:15px;
+    color:white;
+}
+.into {
+    width:150px;
+    height:100px;
+    border:2px solid white
+}
+.plan {
+    text-align:center;
+}
+main h2 {
+    color:white;
+    text-align:center;
+
+}
+main p {
+    color:white;
+}
+.good {
+    width:150px;
+    height:100px;
+    border:2px solid white;
+}
+.car {
+    text-align:center;
+}
+i {
+    color:black;
+}
+.man {
+       width:150px;
+    height:100px;
+    border:2px solid white;   
+}
+.bad {
+    text-align:center ;
+}
+.mause {
+    text-align:center;
+}
+.cold{
+ width:150px;
+    height:100px;
+    border:2px solid white;
+}
+.dog {
+    text-align:center;
+}
+.cat {
+    width:150px;
+    height:100px;
+    border:2px solid white;
+}
